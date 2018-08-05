@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+img {
+    width: 12em;
+    height: 12em;
+}
+
+.hp {
+    background-color: green;
+}
